@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Time Stamp App
+![Time Stamp App](https://i.ibb.co/ZVRsmnD/Time-Stamp-App.png)
 
 ## Available Scripts
 
@@ -66,3 +67,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+[MIT](https://github.com/web-codegrammer/Bootstrap-4-Website-landing-Page/blob/master/LICENSE)
+
+Issued to ```Devanshu Vashishtha``` | All Rights Reserved | 2020
+
